@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79648310416",
+    "project_id": "bricolage-app-11b6a",
+    "storage_bucket": "bricolage-app-11b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79648310416:android:2359d217de2584b3aa0415",
+        "android_client_info": {
+          "package_name": "com.nourzaka.bricolage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79648310416-29m00q4simpoq8c4v5gqgp6b1vdff34q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_nujVz1s8Z537F3Okrv43YgCguXqvTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79648310416-29m00q4simpoq8c4v5gqgp6b1vdff34q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
